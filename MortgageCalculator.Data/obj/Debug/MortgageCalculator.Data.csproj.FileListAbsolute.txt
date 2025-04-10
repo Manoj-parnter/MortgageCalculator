@@ -1,0 +1,165 @@
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.dll.config
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.pdb
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Options.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Remotion.Linq.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Buffers.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Collections.Immutable.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.ComponentModel.Annotations.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Interactive.Async.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Memory.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Numerics.Vectors.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Options.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Remotion.Linq.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Buffers.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Collections.Immutable.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Interactive.Async.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Memory.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Numerics.Vectors.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.csproj.AssemblyReference.cache
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.csproj.CoreCompileInputs.cache
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\obj\Debug\Mortgage.64E6A1F9.Up2Date
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.pdb
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.dll.config
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.pdb
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Remotion.Linq.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Buffers.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Interactive.Async.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Memory.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Remotion.Linq.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Buffers.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Collections.Immutable.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Interactive.Async.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Memory.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.csproj.AssemblyReference.cache
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.csproj.CoreCompileInputs.cache
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\obj\Debug\Mortgage.64E6A1F9.Up2Date
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.pdb
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.dll.config
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\MortgageCalculator.Data.pdb
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Options.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Remotion.Linq.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Buffers.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Collections.Immutable.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.ComponentModel.Annotations.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Interactive.Async.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Memory.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Numerics.Vectors.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Options.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\Remotion.Linq.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Buffers.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Collections.Immutable.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Interactive.Async.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Memory.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Numerics.Vectors.xml
+E:\MortgageCalculator\MortgageCalculator.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.csproj.AssemblyReference.cache
+E:\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.csproj.CoreCompileInputs.cache
+E:\MortgageCalculator\MortgageCalculator.Data\obj\Debug\Mortgage.64E6A1F9.Up2Date
+E:\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.dll
+E:\MortgageCalculator\MortgageCalculator.Data\obj\Debug\MortgageCalculator.Data.pdb

@@ -1,0 +1,10 @@
+E:\MortgageCalculator\MortgageCalculator.Desktop\bin\Debug\MortgageCalculator.Desktop.exe.config
+E:\MortgageCalculator\MortgageCalculator.Desktop\bin\Debug\MortgageCalculator.Desktop.exe
+E:\MortgageCalculator\MortgageCalculator.Desktop\bin\Debug\MortgageCalculator.Desktop.pdb
+E:\MortgageCalculator\MortgageCalculator.Desktop\obj\Debug\MortgageCalculator.Desktop.csproj.AssemblyReference.cache
+E:\MortgageCalculator\MortgageCalculator.Desktop\obj\Debug\MortgageCalculator.Desktop.MortgageCalculatorApp.resources
+E:\MortgageCalculator\MortgageCalculator.Desktop\obj\Debug\MortgageCalculator.Desktop.Properties.Resources.resources
+E:\MortgageCalculator\MortgageCalculator.Desktop\obj\Debug\MortgageCalculator.Desktop.csproj.GenerateResource.cache
+E:\MortgageCalculator\MortgageCalculator.Desktop\obj\Debug\MortgageCalculator.Desktop.csproj.CoreCompileInputs.cache
+E:\MortgageCalculator\MortgageCalculator.Desktop\obj\Debug\MortgageCalculator.Desktop.exe
+E:\MortgageCalculator\MortgageCalculator.Desktop\obj\Debug\MortgageCalculator.Desktop.pdb

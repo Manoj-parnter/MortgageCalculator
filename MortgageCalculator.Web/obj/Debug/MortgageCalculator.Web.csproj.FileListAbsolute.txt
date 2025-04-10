@@ -1,0 +1,469 @@
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll.config
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.pdb
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\WebGrease.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.pdb
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.xml
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csprojResolveAssemblyReference.cache
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.CoreCompileInputs.cache
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.dll
+D:\Projects\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.pdb
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll.config
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.pdb
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\WebGrease.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.pdb
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.xml
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csprojResolveAssemblyReference.cache
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.CoreCompileInputs.cache
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.dll
+D:\DataAshMoollan\Recruitment\ASP Coding Test\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.pdb
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll.config
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.pdb
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\WebGrease.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.pdb
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.xml
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.CoreCompileInputs.cache
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.CopyComplete
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.dll
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.pdb
+D:\Downloads\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csprojAssemblyReference.cache
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll.config
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.pdb
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.exe
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.exe.config
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.rsp
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.exe
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.exe.config
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.rsp
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Managed.Core.targets
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Buffers.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Memory.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Numerics.Vectors.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.exe
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.exe.config
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.rsp
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\VBCSCompiler.exe
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Options.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Primitives.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Net.Http.Headers.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Dto.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Remotion.Linq.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Buffers.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Collections.Immutable.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.ComponentModel.Annotations.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Diagnostics.DiagnosticSource.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Interactive.Async.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Memory.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Numerics.Vectors.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Text.Encodings.Web.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\WebGrease.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.pdb
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.dll.config
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Dto.pdb
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Options.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Primitives.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Net.Http.Headers.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\Remotion.Linq.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Buffers.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Collections.Immutable.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Diagnostics.DiagnosticSource.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Interactive.Async.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Memory.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Numerics.Vectors.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Text.Encodings.Web.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.AssemblyReference.cache
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.CoreCompileInputs.cache
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\obj\Debug\Mortgage.07D59D30.Up2Date
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.pdb
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\dotless.AspNet.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\dotless.Core.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.Less.dll
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.xml
+E:\VS 2022 Extenions\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.Less.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll.config
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.pdb
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.exe
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.exe.config
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.rsp
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.exe
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.exe.config
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.rsp
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Buffers.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Memory.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.exe
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.exe.config
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.rsp
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\dotless.AspNet.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\dotless.Core.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Options.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Dto.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Remotion.Linq.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Buffers.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Collections.Immutable.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.ComponentModel.Annotations.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Interactive.Async.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Memory.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Numerics.Vectors.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Text.Encodings.Web.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.Less.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\WebGrease.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.pdb
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.dll.config
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Dto.pdb
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Options.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Remotion.Linq.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Buffers.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Collections.Immutable.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Interactive.Async.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Memory.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Numerics.Vectors.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Text.Encodings.Web.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.Less.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.AssemblyReference.cache
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.CoreCompileInputs.cache
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\obj\Debug\Mortgage.07D59D30.Up2Date
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.pdb
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.dll
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Dto.dll.config
+C:\Users\RMCCORITD011\Desktop\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll.config
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Web.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.exe
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.exe.config
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csc.rsp
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.exe
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.exe.config
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\csi.rsp
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Buffers.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Memory.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Numerics.Vectors.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.exe
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.exe.config
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\vbc.rsp
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\VBCSCompiler.exe
+E:\MortgageCalculator\MortgageCalculator.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Design.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Options.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Primitives.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Dto.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Remotion.Linq.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Buffers.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Collections.Immutable.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.ComponentModel.Annotations.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Data.SqlClient.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Diagnostics.DiagnosticSource.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Interactive.Async.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Memory.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Numerics.Vectors.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Text.Encodings.Web.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Unity.Abstractions.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Unity.Container.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Unity.Mvc5.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\WebGrease.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Data.dll.config
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Dto.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\bin\MortgageCalculator.Dto.dll.config
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Antlr3.Runtime.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Design.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Options.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Microsoft.Extensions.Primitives.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Newtonsoft.Json.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Remotion.Linq.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Buffers.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Collections.Immutable.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Diagnostics.DiagnosticSource.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Interactive.Async.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Memory.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Numerics.Vectors.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Text.Encodings.Web.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Helpers.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Mvc.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Optimization.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.Razor.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Deployment.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Web.WebPages.Razor.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Unity.Abstractions.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Unity.Container.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.AssemblyReference.cache
+E:\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.SuggestedBindingRedirects.cache
+E:\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.dll.config
+E:\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.csproj.CoreCompileInputs.cache
+E:\MortgageCalculator\MortgageCalculator.Web\obj\Debug\Mortgage.07D59D30.Up2Date
+E:\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.dll
+E:\MortgageCalculator\MortgageCalculator.Web\obj\Debug\MortgageCalculator.Web.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Threading.Tasks.Extensions.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Unity.Mvc.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\WebActivatorEx.dll
+E:\MortgageCalculator\MortgageCalculator.Web\bin\System.Threading.Tasks.Extensions.xml
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Unity.Mvc.pdb
+E:\MortgageCalculator\MortgageCalculator.Web\bin\Unity.Mvc.xml
